@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Algorithms.Sorting.Bubble\Algorithms.Sorting.csproj" />
+  </ItemGroup>
+
 </Project>
